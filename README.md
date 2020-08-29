@@ -51,7 +51,6 @@ N/A
 ## Questions
 
 - If you have any questions, please contact me on Github.
-- email@gmail.com
 - [KJ-Labs](https://github.com/KJ-Labs)
 
 ## Repository
